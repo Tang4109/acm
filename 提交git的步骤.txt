@@ -1,0 +1,5 @@
+git步骤：
+cd acm
+1.// git add 1.1.6.txt
+2.// git commit -m "the 6th program of acm"
+3.// git push origin master
