@@ -37,3 +37,4 @@ int main()
 	cin.get();
 	return 0;
 }
+//总结：数学套路题
